@@ -1,0 +1,45 @@
+C:\Users\hp\source\repos\pattern\pattern\bin\Debug\net6.0\pattern.exe
+C:\Users\hp\source\repos\pattern\pattern\bin\Debug\net6.0\pattern.deps.json
+C:\Users\hp\source\repos\pattern\pattern\bin\Debug\net6.0\pattern.runtimeconfig.json
+C:\Users\hp\source\repos\pattern\pattern\bin\Debug\net6.0\pattern.dll
+C:\Users\hp\source\repos\pattern\pattern\bin\Debug\net6.0\ref\pattern.dll
+C:\Users\hp\source\repos\pattern\pattern\bin\Debug\net6.0\pattern.pdb
+C:\Users\hp\source\repos\pattern\pattern\obj\Debug\net6.0\pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\pattern\pattern\obj\Debug\net6.0\pattern.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\pattern\pattern\obj\Debug\net6.0\pattern.AssemblyInfo.cs
+C:\Users\hp\source\repos\pattern\pattern\obj\Debug\net6.0\pattern.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\pattern\pattern\obj\Debug\net6.0\pattern.dll
+C:\Users\hp\source\repos\pattern\pattern\obj\Debug\net6.0\ref\pattern.dll
+C:\Users\hp\source\repos\pattern\pattern\obj\Debug\net6.0\pattern.pdb
+C:\Users\hp\source\repos\pattern\pattern\obj\Debug\net6.0\pattern.genruntimeconfig.cache
+C:\Users\hp\source\repos\pattern\pattern\obj\Debug\net6.0\pattern.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\reverse star print\pattern\bin\Debug\net6.0\pattern.exe
+C:\Users\hp\source\repos\reverse star print\pattern\bin\Debug\net6.0\pattern.deps.json
+C:\Users\hp\source\repos\reverse star print\pattern\bin\Debug\net6.0\pattern.runtimeconfig.json
+C:\Users\hp\source\repos\reverse star print\pattern\bin\Debug\net6.0\pattern.dll
+C:\Users\hp\source\repos\reverse star print\pattern\bin\Debug\net6.0\ref\pattern.dll
+C:\Users\hp\source\repos\reverse star print\pattern\bin\Debug\net6.0\pattern.pdb
+C:\Users\hp\source\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.AssemblyInfo.cs
+C:\Users\hp\source\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.dll
+C:\Users\hp\source\repos\reverse star print\pattern\obj\Debug\net6.0\ref\pattern.dll
+C:\Users\hp\source\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.pdb
+C:\Users\hp\source\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.genruntimeconfig.cache
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\bin\Debug\net6.0\pattern.exe
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\bin\Debug\net6.0\pattern.deps.json
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\bin\Debug\net6.0\pattern.runtimeconfig.json
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\bin\Debug\net6.0\pattern.dll
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\bin\Debug\net6.0\ref\pattern.dll
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\bin\Debug\net6.0\pattern.pdb
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.AssemblyInfo.cs
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.dll
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\obj\Debug\net6.0\ref\pattern.dll
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.pdb
+C:\Users\hp\Desktop\code\repos\reverse star print\pattern\obj\Debug\net6.0\pattern.genruntimeconfig.cache
